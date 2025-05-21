@@ -1,8 +1,8 @@
-## Oi ,btudo bem 
+## Oi ,Tudo bem 
 
 ● Nome e Raphael
 
-● Aluno senac
+● Aluno Senac
 
 ● Cursando Python
 
