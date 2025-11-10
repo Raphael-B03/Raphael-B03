@@ -8,6 +8,10 @@
 ● Estou aberto a oportunidades e networking. Sinta-se à vontade para se conectar! <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) <br>
 raphaelbernardino448@gmail.com @raphael_b03
+
+E-mail | [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:raphaelbernardino448@gmail.com) | `raphaelbernardino448@gmail.com` |
+| Instagram | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raphael_b03) | `@raphael_b03` |
+| WhatsApp | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)]([COLE AQUI O SEU LINK DE WHATSAPP]) | [Link de contato direto (opcional)] |
 ## Plataformas de Codigo
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
