@@ -6,7 +6,8 @@
 
 ## Contato 
 ● Estou aberto a oportunidades e networking. Sinta-se à vontade para se conectar! <br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:raphaelbernardino448@gmail.com)       `raphaelbernardino448@gmail.com` <br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:raphaelbernardino448@gmail.com)  `raphaelbernardino448@gmail.com` <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raphael_b03)  `@raphael_b03` <br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)]() 
 
