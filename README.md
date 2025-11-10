@@ -1,6 +1,6 @@
-## Oi ,Tudo bem 
+## Olá! Eu sou o Raphael Bernardino 👋 
 
-● Nome e Raphael
+● 🎯 Jovem Programador Focado em Oportunidades & Desenvolvimento
 
 ● Cursando Python
 
@@ -11,7 +11,7 @@ raphaelbernardino448@gmail.com @raphael_b03
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## Linguegens Aprendidas
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 ## Cursando
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) 
