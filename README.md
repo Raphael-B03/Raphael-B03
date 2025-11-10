@@ -13,7 +13,7 @@ raphaelbernardino448@gmail.com @raphael_b03
 ## Linguegens Aprendidas
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
-## Cursando
+## Terminando de Cursar
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) 
 
 ## Começando a Aprender
