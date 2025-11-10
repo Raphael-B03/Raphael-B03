@@ -2,7 +2,7 @@
 
 ### 🎯 Jovem Programador Focado em Oportunidades & Desenvolvimento
 
-Sou um **estudante de Python** com grande entusiasmo e disciplina para dominar novas tecnologias. Estou em busca da minha primeira experiência profissional para aplicar meus conhecimentos e crescer rapidamente na área de desenvolvimento.
+Sou um **estudante de Programação** com grande entusiasmo e disciplina para dominar novas tecnologias. Estou em busca da minha primeira experiência profissional para aplicar meus conhecimentos e crescer rapidamente na área de desenvolvimento.
 
 > **Minha jornada é impulsionada pela curiosidade e pela busca por soluções eficientes.** Meu GitHub é meu laboratório, onde transformo conceitos em código e dedicação em projetos.
 
