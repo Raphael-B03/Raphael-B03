@@ -1,8 +1,10 @@
 ## Olá! Eu sou o Raphael Bernardino 👋 
 
-● 🎯 Jovem Programador Focado em Oportunidades & Desenvolvimento
+### 🎯 Jovem Programador Focado em Oportunidades & Desenvolvimento
 
-● Cursando Python
+Sou um **estudante de Python** com grande entusiasmo e disciplina para dominar novas tecnologias. Estou em busca da minha primeira experiência profissional para aplicar meus conhecimentos e crescer rapidamente na área de desenvolvimento.
+
+> **Minha jornada é impulsionada pela curiosidade e pela busca por soluções eficientes.** Meu GitHub é meu laboratório, onde transformo conceitos em código e dedicação em projetos.
 
 ## 📬 Contato 
 ● Estou aberto a oportunidades e networking. Sinta-se à vontade para se conectar! <br>
