@@ -4,17 +4,18 @@
 
 ● Cursando Python
 
-## Contato 
+## 📬 Contato 
 ● Estou aberto a oportunidades e networking. Sinta-se à vontade para se conectar! <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:raphaelbernardino448@gmail.com)  `raphaelbernardino448@gmail.com` <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raphael_b03)  `@raphael_b03` <br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)]() 
 
-## Plataformas de Codigo
+### 💻 Plataformas e Ferramentas
+
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-## Linguegens Aprendidas
+## 📚 Linguegens Aprendidas
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 ## Terminando de Cursar
