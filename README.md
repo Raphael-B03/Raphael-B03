@@ -18,7 +18,7 @@ Sou um **estudante de Programação** com grande entusiasmo e disciplina para do
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## 🧠 Linguegens Aprendidas
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)  [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
 ## Terminando de Cursar
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) 
