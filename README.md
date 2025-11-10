@@ -13,4 +13,3 @@
 <img align="center" alt="ces" height= "45" whidht="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
 
 ## Cursando
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png
